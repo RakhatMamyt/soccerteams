@@ -1,0 +1,16 @@
+img {
+  width: 200px;
+  height: 20vh;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  border: 1px solid green;
+  width: 100%;
+  background: green;
+}
+#clear {
+  background-color: red;
+}
